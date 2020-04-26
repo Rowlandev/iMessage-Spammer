@@ -1,6 +1,9 @@
 # iMessage-Spammer
 Script to send a list of strings as individual iMessages one after another to the intended receiver
 
+## Example
+![](Example.gif)
+
 ## Getting Started
 
 In order to run this program, navigate to the directory containing all files that are a part of this repository.
