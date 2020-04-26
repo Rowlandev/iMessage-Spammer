@@ -1,5 +1,5 @@
 # iMessage-Spammer
-Script to send a list of strings as individual iMessages one after another to the intended receiver
+Script to send a list of strings as individual iMessages one after another to the intended receiver. This program utilizes the Mac iMessages application.
 
 ## Example
 ![](Example.gif)
