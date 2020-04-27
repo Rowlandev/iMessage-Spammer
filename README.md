@@ -13,9 +13,9 @@ In order to run this program, navigate to the directory containing all files tha
 You are free to change the script that is sent to the intended receiver to any text you would like.
 Movie scripts tend to work best due to their length. However, be warned that there may be a limit to the length of columns
 your code editor allows. Once you've found the script that suits your iMessage recipient, replace the current script
-within the [spammer.applescript] file. 
+within the [spammer.applescript](#) file. 
 
-The [script.txt] file is an optional tool that can be used to clean up the syntax of the script to use it more easily within [spammer.applescript].
+The [script.txt](#) file is an optional tool that can be used to clean up the syntax of the script to use it more easily within [spammer.applescript](#).
 
 ### Running the iMessage Spammer
 Before continuing, make sure you have specified the ID of the iMessage recipient you intend to spam.
