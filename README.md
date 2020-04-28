@@ -8,7 +8,7 @@ Script to send a list of strings as individual iMessages one after another to th
 
 In order to run this program, navigate to the directory containing all files that are a part of this repository.
 
-### Changing the [Movie] Script
+### Changing the [Movie]? Script
 
 You are free to change the script that is sent to the intended receiver to any text you would like.
 Movie scripts tend to work best due to their length. However, be warned that there may be a limit to the length of columns
