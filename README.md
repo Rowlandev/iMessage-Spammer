@@ -1,7 +1,9 @@
 # iMessage-Spammer
+
 Script to send a list of strings as individual iMessages one after another to the intended receiver. This program utilizes the Mac iMessages application.
 
 ## Demo
+
 ![](Example.gif)
 
 ## Getting Started
@@ -15,9 +17,8 @@ Movie scripts tend to work best due to their length. However, be warned that the
 your code editor allows. Once you've found the script that suits your iMessage recipient, replace the current script
 within the [spammer.applescript](#) file. 
 
-The [script.txt](#) file is an optional tool that can be used to clean up the syntax of the script to use it more easily within [spammer.applescript](#).
-
 ### Running the iMessage Spammer
+
 Before continuing, make sure you have specified the ID of the iMessage recipient you intend to spam.
 ```
 set targetBuddy to buddy "INSERT NUMBER / EMAIL HERE" of targetService
