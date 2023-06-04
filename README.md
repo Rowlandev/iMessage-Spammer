@@ -19,12 +19,7 @@ within the [spammer.applescript](#) file.
 
 ### Running the iMessage Spammer
 
-Before continuing, make sure you have specified the ID of the iMessage recipient you intend to spam.
+Run the iMessage Spammer using the following command replacing the provided phone number and message description with the desired ones:
 ```
-set targetBuddy to buddy "INSERT NUMBER / EMAIL HERE" of targetService
-```
-
-After specifying the targetBuddy using the example above, run the iMessage Spammer using the following command:
-```
-osascript spammer.applescript
+osascript spammer.applescript "217XXXXXXX" "Just testing"
 ```
